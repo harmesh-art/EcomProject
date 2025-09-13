@@ -93,5 +93,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 Developed by [harmesh-art](https://github.com/harmesh-art)
 
 ---
-
-*Feel free to customize this README with more specific information about your implementation, frameworks, and configuration!*
