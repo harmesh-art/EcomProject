@@ -1,0 +1,8 @@
+# Compiled class files
+/build/
+
+# Distribution archives
+/dist/
+
+# NetBeans project private files
+nbproject/private/
